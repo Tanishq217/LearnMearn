@@ -30,3 +30,12 @@ console.log("Start")
 
 
 // Start > File 1 > END > File 2 
+
+
+
+// Writing in a File 
+
+fs.writeFile('f3.txt' , "I am New Written Thing", function (err , data) {
+
+}) ; 
+console.log("File Created !") 
