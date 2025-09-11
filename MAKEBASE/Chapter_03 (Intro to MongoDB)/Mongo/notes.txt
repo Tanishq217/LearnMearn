@@ -1,9 +1,0 @@
-Inregrate the MongoDB with the app >> WE WILL USE ATLAS >> 
-
-ATLUS > RUN MONGODB DATABASE TO CLOUD ! 
-
-
-> Log in mongo db !! 
-
-
-> cluster is the cloud provide d data ! 
