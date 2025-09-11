@@ -1,0 +1,13 @@
+pass > qltywBhV5FSYKNDC
+
+user > tanishq2127
+
+
+
+connection string >> 
+
+mongodb+srv://tanishq2127:Rfkld1gkLJPEkFDA@cluster0.3uoptzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+to connect mongodb with the cluster !! >> we use > Mongoose !!! 
+bridge > connect server to our database ! 
